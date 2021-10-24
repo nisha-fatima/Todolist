@@ -1,0 +1,6 @@
+UI:
+Remove "."
+
+FUCTIONALITY:
+1. Press enter should add item.
+2. Item should not be add if input is blank.
